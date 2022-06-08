@@ -1,0 +1,24 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@300;500&display=swap');
+
+div.menubar {
+    display: inline;
+    float: right;
+    font-family: 'Montserrat', sans-serif;
+    font-style: 500;
+}
+a.menubar {
+    text-decoration: none;
+    color: #7A835D;
+}
+
+.bglingkaran{
+	width: auto;
+    height: 500px;
+    border-radius: 0 0 100% 100%;
+	background: #FEFAE0;
+    margin-top: -100px;
+    right: 0;
+    left: 0;
+    top: 0;
+    bottom: 0;
+}
